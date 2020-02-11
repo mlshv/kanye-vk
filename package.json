@@ -1,0 +1,12 @@
+{
+  "name": "kanye-vk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mlshv/kanye-vk.git",
+  "author": "Mikhail Malyshev <mlshv42@ya.ru>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  }
+}
